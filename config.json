@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "prefix": "!",
+  "status": "your conversations",
+  "gemini_api_key": "YOUR_GEMINI_API_KEY"
+}
+
